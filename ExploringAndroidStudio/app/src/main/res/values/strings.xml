@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exploring Android Studio</string>
+    <string name="btn_click_me">Click me</string>
+</resources>
